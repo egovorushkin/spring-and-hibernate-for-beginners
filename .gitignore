@@ -5,6 +5,9 @@
 # Log file
 *.log
 
+#MacOS
+.DS_Store
+
 
 # Package Files #
 *.war
