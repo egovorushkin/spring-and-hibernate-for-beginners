@@ -10,7 +10,7 @@
 	<name>crm-with-security-jdbc-encryption-authentication</name>
 
 	<properties>
-		<springframework.version>5.1.11.RELEASE</springframework.version>
+		<springframework.version>5.2.3.RELEASE</springframework.version>
 		<springsecurity.version>5.1.7.RELEASE</springsecurity.version>
 		
 		<hibernate.version>5.4.9.Final</hibernate.version>
